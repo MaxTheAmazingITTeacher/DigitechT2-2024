@@ -1,0 +1,31 @@
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #28c430;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    float:left; 
+    margin-right:10px;
+}
+.red {
+    background: rgb(145, 7, 7);
+}
+.green {
+    background: rgb(6, 102, 38);
+}
+.yellow {
+    background: rgb(0, 0, 0);
+}
+
+#doorPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
