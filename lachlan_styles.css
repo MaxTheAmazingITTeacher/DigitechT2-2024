@@ -6,20 +6,20 @@
     padding: 10px;
     text-align: center;
     border-radius: 5px;
-    color: rgb(255, 255, 255);
+    color: white;
     font-weight: bold;
     line-height: 25px;
     float:left; 
     margin-right:10px;
 }
 .red {
-    background: #f00;
+    background: rgb(145, 7, 7);
 }
 .green {
-    background: #0f0;
+    background: rgb(6, 102, 38);
 }
 .yellow {
-    background: rgb(245, 230, 21);
+    background: rgb(0, 0, 0);
 }
 
 #doorPic {
@@ -27,4 +27,5 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
