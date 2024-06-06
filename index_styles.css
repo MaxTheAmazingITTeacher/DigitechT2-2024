@@ -1,0 +1,40 @@
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+  }
+   li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+    font-size: x-large;
+    font-family: cursive;
+
+  }
+  .holy-grail-grid>footer {
+    grid-area: footer;
+    background: darkblue;
+    display: flex;
+    justify-content: space-around;
+}
+.holy-grail-grid>section {
+    grid-area: left-sidebar;
+    background: darkblue;
+}
+
+.holy-grail-grid>aside {
+    grid-area: right-sidebar;
+    background: darkblue;
+}
+.holy-grail-grid>main {
+    grid-area: main-content;
+    background: rgb(31, 31, 136);
+    color: wheat;
+}
+
+.holy-grail-grid>header {
+    grid-area: header;
+    background: #12039a;
+    text-align: center;
+    color: white;
+}
