@@ -1,8 +1,8 @@
 .button {
     display: block;
     width: 115px;
-    height: 25px;
-    background: #9496aa;
+    height: 40px;
+    background: #2f3792;
     padding: 10px;
     text-align: center;
     border-radius: 5px;
@@ -19,7 +19,7 @@
     background: rgb(225, 228, 225);
 }
 .yellow {
-    background: rgb(245, 230, 21);
+    background: rgb(225, 228, 225);
 }
 
 
