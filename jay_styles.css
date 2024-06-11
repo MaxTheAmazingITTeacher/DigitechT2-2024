@@ -6,7 +6,7 @@
     padding: 10px;
     text-align: center;
     border-radius: 5px;
-    color: rgb(255, 255, 255);
+    color: white;
     font-weight: bold;
     line-height: 25px;
     float:left; 
@@ -27,25 +27,5 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-#bikePic {
-    width:50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#boxesPic {
-    width:50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#zombiePic {
-    width:50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
