@@ -32,3 +32,86 @@
 #center {
     width:50%;
 }
+.holy-grail-grid>header {
+    grid-area: header;
+    background: #72c2f1;
+    text-align: center;
+}
+
+.holy-grail-grid>main {
+    grid-area: main-content;
+    background: #80a195b0;
+}
+
+.holy-grail-grid>section {
+    grid-area: left-sidebar;
+    background: #405aa3;
+}
+
+.holy-grail-grid>aside {
+    grid-area: right-sidebar;
+    background: #405aa3;
+}
+
+.holy-grail-grid>footer {
+    grid-area: footer;
+    background: #72c2f1;
+    display: flex;
+    justify-content: space-between;
+}
+#cityPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#countryPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#roadPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#bikePic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#storePic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#alleyPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#store2Pic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#deathPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
