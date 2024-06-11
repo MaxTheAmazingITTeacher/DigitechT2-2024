@@ -42,3 +42,10 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+#zombiePic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
