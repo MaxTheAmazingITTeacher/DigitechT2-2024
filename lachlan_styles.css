@@ -59,3 +59,59 @@
     display: flex;
     justify-content: space-between;
 }
+#cityPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#countryPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#roadPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#bikePic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#storePic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#alleyPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#store2Pic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#deathPic {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
