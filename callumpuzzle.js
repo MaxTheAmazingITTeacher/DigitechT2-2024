@@ -48,7 +48,7 @@ function swap(puzzleContainer, square) {
         // check if the puzzle is solved
         if (isSolved(puzzleContainer)) {
             window.location.href = "callumpuzzle1.html";
-        }
+        } 
     }
 }
 
