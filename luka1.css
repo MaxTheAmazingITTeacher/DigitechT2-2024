@@ -1,0 +1,43 @@
+
+
+.main-room {
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 100px rgba(231, 9, 9, 0.2);
+}
+body{ 
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-image: url("Theforbiddenforest.jpg");
+  color:azure;
+font-size: 20px;
+}
+button {
+  background-color: #1ca015;
+  color: rgb(255, 255, 255);
+  border: 2px solid rgb #90650e;
+  padding: 5px;
+  font-size: 31px;
+  height: 150px;
+  width: 150px;
+  box-shadow: 0 2px 4px rgb(21, 130, 23);
+  cursor: pointer;
+  transition: all .2s ease;
+}
+
+button:hover {
+  background-color: #093f05;
+}
+
+button:active {
+  box-shadow: 0 0 2px rgb(1, 46, 11);
+  transform: translateY(4px);
+}
+
+button {
+  margin-bottom: 30px;
+}
+
+.roundButton {
+  border-radius: 50%;
+}

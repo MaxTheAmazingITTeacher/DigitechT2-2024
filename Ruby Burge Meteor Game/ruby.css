@@ -1,0 +1,19 @@
+.button {
+    display: block;
+    width: 57.5px;
+    height: 20px;
+    background: #ebbd27;
+    padding: 10px;
+    text-align: center;
+    border-radius: 2.5px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 25px;
+    float:left; 
+    margin-right:10px;
+}
+
+#buttons
+{
+    display: none;
+}

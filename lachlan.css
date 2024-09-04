@@ -1,0 +1,58 @@
+body {
+    background-color:darkcyan;
+  }
+  
+  .main-room {
+    text-align: center;
+    background-color:seagreen;
+    border: black solid;
+    border-radius: 100px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+  }
+  
+  button {
+    background-color: darkred;
+    color: white;
+    border: black (73, 5, 5) solid (80, 4, 4);
+    padding: 5px;
+    font-size: 31px;
+    height: 550px;
+    width: 550px;
+    box-shadow: 0 40px 40px black;
+    cursor: pointer;
+    transition: all .2s ease;
+    position: 0;
+  }
+  
+  button:hover {
+    background-color: rgb(80, 3, 3) (97, 11, 11);
+    position: 0;
+  }
+  
+  button:active {
+    box-shadow: 4 4 4px black;
+    transform: translateY(4px);
+    position: 0;
+
+  }
+  
+  button {
+    margin-bottom: 100px;
+  }
+  
+  .roundButton {
+    border-radius: 100%;
+  }
+  .roundRedButton {
+    border-radius: 100%;
+    background-color: red;
+
+  }
+  .roundButton {
+    display: block;
+    margin: auto;
+  }
+  wordMiddle {
+    display: block;
+    margin: auto;
+  }
