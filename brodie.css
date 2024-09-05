@@ -1,0 +1,45 @@
+body {
+  background-color: #ad3232;
+}
+body{
+  background-image: url(BIGDOOR.webp);
+  background-repeat: no-image;
+  height:-200px;
+  width: -200px;
+  background-size:cover;
+  color: rgb(240, 11, 11);
+  text-size-adjust:40px ;
+  text-align: center;
+}
+  
+
+button {
+  background-color: #fefefe;
+  color: rgb(46, 213, 247);
+  border: none;
+  padding: 5px;
+  font-size: 31px;
+  height: 130px;
+  width: 130px;
+  box-shadow: 0 2px 4px rgb(139, 153, 209);
+  cursor: pointer;
+  transition: all .2s ease;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #9595a8;
+}
+
+button:active {
+  box-shadow : 0 0 2px rgb(225, 5, 5);
+  transform: translateY(4px);
+}
+
+button {
+  margin-bottom: 20px;
+}
+
+.roundButton {
+  border-radius: 50%;
+}
