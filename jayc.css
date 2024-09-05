@@ -1,0 +1,49 @@
+body {
+  background-image: url("zombie.jpg");
+  background-size: cover;
+  color: #000000;
+}
+
+.main-room {
+  text-align: center;
+  background-color: #fff;
+  border: 2px solid #333;
+  border-radius: 10px;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  background-color: #48abe0;
+  color: white;
+  border: none;
+  padding: 5px;
+  font-size: 31px;
+  height: 130px;
+  width: 130px;
+  box-shadow: 0 2px 4px darkslategray;
+  cursor: pointer;
+  transition: all .2s ease;
+}
+
+button:hover {
+  background-color: #65b9e6;
+}
+
+button:active {
+  box-shadow: 0 0 2px darkslategray;
+  transform: translateY(4px);
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+.roundButton {
+  border-radius: 50%;
+}
+#zombie.jpg {
+  width: 400px;
+}
+;.Clicker_text{
+  color:#fff
+}
