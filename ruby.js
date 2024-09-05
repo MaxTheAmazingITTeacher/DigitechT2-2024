@@ -8,7 +8,7 @@ sprite.src = 'pngegg.png';
 
 // Load the background image
 const background = new Image();
-background.src = 'background.png';
+background.src = 'ruby_background.png';
 
 // Load the meteor image
 const meteorImage = new Image();
