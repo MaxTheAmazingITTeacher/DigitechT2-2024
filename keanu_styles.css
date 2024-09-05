@@ -25,3 +25,23 @@
     margin-right: auto;
     
 }
+p {
+    
+    font-size: 15px;
+    color: black;
+  }
+
+  body {
+    background-color: black;
+  }
+
+  .backgroundblack {
+    background-color: red;
+  }
+
+  .img-container {
+    text-align: center;
+  }
+#p2 {
+    font-size: 40px;
+}
