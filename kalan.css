@@ -1,0 +1,56 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("water.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+
+.container {
+    display: flex;
+    width: 80%; /* Adjust as needed */
+    height: 300px; /* Adjust as needed */
+    background-color: #f0f0f0; /* Debug color */
+}
+
+.box {
+    height: 100%;
+}
+
+.left, .right {
+    width: 16.66%; /* 1/6th of the container's width */
+    background-color: hwb(0 2% 5%); /* Debug color */
+}
+
+.center {
+    width: 66.67%; /* Remaining space */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0cf2fa; /* Debug color */
+    position: relative; /* Added */
+}
+body {
+    background-image: url("water.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.line {
+    width: 6px;
+    height: 100%;
+    background-color: hsl(0, 100%, 54%); /* Debug color */
+    position: absolute; /* Added */
+    left: 50%; /* Change this to adjust the position */
+}

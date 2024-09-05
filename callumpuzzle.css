@@ -1,0 +1,33 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(36, 203, 189);
+    color: rgb(229, 28, 28);
+    border-radius: 5px;
+    border: 1px solid rgb(255, 28, 217);
+    display: inline-block;
+    margin: 5px;
+}
+ 
+.gap {
+
+    background-color: rgb(43, 2, 244)    ;
+}
+
+#puzzle-container { 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 390px;
+    margin:auto;
+}
+body {
+    background-image: url("fingerlockeddoor.webp");
+}
+body {
+    background-repeat: no-repeat
+}
+body {
+   background-size: 200vw;
+    background-size: 200vh;
+}
