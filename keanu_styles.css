@@ -27,7 +27,7 @@
 }
 p {
     
-    font-size: 16px;
+    font-size: 15px;
     color: black;
   }
 
@@ -42,4 +42,6 @@ p {
   .img-container {
     text-align: center;
   }
-
+#p2 {
+    font-size: 40px;
+}

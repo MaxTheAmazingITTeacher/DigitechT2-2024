@@ -49,7 +49,7 @@ setInterval(() => {
 
 function gotonextpage() {
 
-  window.location.href = "keanupass.html"; // Replace with the URL of the page you want to redirect to 
+  window.location.href = "dominic introduction.html"; // Replace with the URL of the page you want to redirect to 
 
 } 
 
