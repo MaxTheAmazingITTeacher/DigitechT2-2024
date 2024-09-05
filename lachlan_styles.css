@@ -13,6 +13,13 @@
     margin-right:10px;
 }
 .red {
+    background: #f00;
+}
+.green {
+    background: #0f0;
+}
+.yellow {
+    background: rgb(245, 230, 21);
     background: rgb(145, 7, 7);
 }
 .green {

@@ -20,7 +20,7 @@ setTimeout(function() {
 
 function pass() {
     alert("You Have Won!");
-    window.location.href = "file:///C:/Users/lachlan.warwick/OneDrive%20-%20Bayside%20Christian%20College/Documents/DigitalTech/DigiTech/DigitechT2-2024-main/lachlan_room007.html"
+    window.location.href = "file:///C:/Users/cybercuda10/OneDrive%20-%20Bayside%20Christian%20College/Documents/DigitechT2-2024/lachlan_room007.html"
 }
 
 function fail() {
