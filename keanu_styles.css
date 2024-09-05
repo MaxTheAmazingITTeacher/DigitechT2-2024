@@ -25,3 +25,21 @@
     margin-right: auto;
     
 }
+p {
+    
+    font-size: 16px;
+    color: black;
+  }
+
+  body {
+    background-color: black;
+  }
+
+  .backgroundblack {
+    background-color: red;
+  }
+
+  .img-container {
+    text-align: center;
+  }
+

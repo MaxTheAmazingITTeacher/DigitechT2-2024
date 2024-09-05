@@ -7,7 +7,7 @@ const counterSpan = document.getElementById('counter');
 let rotationSpeed = 2;
 let rotation = 0;
 let direction = 1; // 1: clockwise, -1: anticlockwise
-let counter = 32;
+let counter = 52;
 const threshold = 5; // degrees for considering stopped state
 
 function updateCompass() {
